@@ -1,5 +1,5 @@
 # CeresLab-FPGA
-FPGA tutorials made by NYCU CeresLab members Wen-Shuo.Cheng
+FPGA tutorials made by NYCU CeresLab members
 
 # Reference
 [NCKU FPGA 2025](https://github.com/ncku-vlsilab/2025-FPGA-System-Design/tree/main)  
