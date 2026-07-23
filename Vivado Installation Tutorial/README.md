@@ -28,5 +28,5 @@ Key in address
 Download license!!!
 ![AMD License 4](images/AMD_License_4.PNG)  
 
-Open license manager
+Open license manager to manage your license here
 ![AMD License 5](images/AMD_License_5.PNG)  
