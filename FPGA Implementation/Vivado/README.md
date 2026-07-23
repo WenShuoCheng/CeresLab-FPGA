@@ -50,5 +50,5 @@ Design Sources, Constraints, Simulation Sources
 - Log : log
 - Reports : synthesis & implementation timimg, power, utilization...etc. informations。
 - Design Runs : show your design stages
-8. Project Summary  
+8. Project Summary
 9.. Synthesis & Implementation Summary
